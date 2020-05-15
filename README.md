@@ -1,4 +1,5 @@
 Classnames:
+
 Apple = "bnz_apple";
 Tinned beanz = "bnz_beanz";
 Cash/Money = "bnz_cash";
