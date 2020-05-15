@@ -1,18 +1,30 @@
 Classnames:
 
 Apple = "bnz_apple"; 
+
 Tinned beanz = "bnz_beanz"; 
+
 Cash/Money = "bnz_cash"; 
+
 JD Whiskey = "bnz_jackoffs"; 
+
 JD Whiskey (empty) = "bnz_jackoffs_emtpy"; 
+
 MRE = "bnz_mre"; 
+
 Knife = "bnz_knife"; 
+
 Meat = "bnz_meat"; 
+
 Raw meat = "bnz_rawmeat"; 
 
+
 coke can = "bnz_cokecan"; 
+
 sprite can = "bnz_spritecan"; 
+
 vodka = "bnz_vodka"; 
+
 *************************************************************************************************************************************************
 *************************************************************************************************************************************************
 //How to config your own interactions via 'description.ext'
